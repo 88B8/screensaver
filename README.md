@@ -1,1 +1,4 @@
-# screensaver
+# WinForms Snowflake Screensaver
+ФИО: Каменский Илья Андреевич
+Группа: ИП-23-3
+Задание: разработать winforms приложение снегопад
