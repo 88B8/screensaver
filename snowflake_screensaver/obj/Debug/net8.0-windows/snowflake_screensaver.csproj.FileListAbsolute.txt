@@ -1,0 +1,17 @@
+D:\files\files\repos\snowflake_screensaver\bin\Debug\net8.0-windows\snowflake_screensaver.exe
+D:\files\files\repos\snowflake_screensaver\bin\Debug\net8.0-windows\snowflake_screensaver.deps.json
+D:\files\files\repos\snowflake_screensaver\bin\Debug\net8.0-windows\snowflake_screensaver.runtimeconfig.json
+D:\files\files\repos\snowflake_screensaver\bin\Debug\net8.0-windows\snowflake_screensaver.dll
+D:\files\files\repos\snowflake_screensaver\bin\Debug\net8.0-windows\snowflake_screensaver.pdb
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.Form1.resources
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.Properties.Resources.resources
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.csproj.GenerateResource.cache
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.GeneratedMSBuildEditorConfig.editorconfig
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.AssemblyInfoInputs.cache
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.AssemblyInfo.cs
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.csproj.CoreCompileInputs.cache
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.dll
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\refint\snowflake_screensaver.dll
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.pdb
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\snowflake_screensaver.genruntimeconfig.cache
+D:\files\files\repos\snowflake_screensaver\obj\Debug\net8.0-windows\ref\snowflake_screensaver.dll
